@@ -58,11 +58,11 @@
 ## 🤯 Walk through video <a name="walk-through"></a>
 
 
-- [here](https://www.loom.com/share/189bdf857aac4d61ae14ff406743bf4b?sid=d9541873-ba3c-47a8-b5ec-17f9141bf991)
+- [here]()
  <!-- LIVE DEMO -->
  ## 🚀 Live Demo <a name="live-demo"></a>
 
-   [Live Demo Link](https://metrics-webapp-react.onrender.com/)
+   [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +88,7 @@ Example commands:
 ```sh
   mkdir metrics-webapp-react
   cd metrics-webapp-react
-  git clone https://github.com/fatima-najafi/metrics-webapp-react.git
+  git clone https://github.com/aster-alemu/metrics-web-app.git
 ```
 
 ### Install <a name="install">
@@ -116,6 +116,9 @@ npm start
 
 👤 **Aster Alemu**
 
+- GitHub: https://github.com/aster-alemu
+- Twitter: https://twitter.com/home
+- LinkedIn: https://www.linkedin.com/in/aster-alemu-5a62a5211/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
