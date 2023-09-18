@@ -58,11 +58,11 @@
 ## 🤯 Walk through video <a name="walk-through"></a>
 
 
-- [here]()
+- [here](https://www.loom.com/share/34e21427975a4e2eb3ca03368ad28635)
  <!-- LIVE DEMO -->
  ## 🚀 Live Demo <a name="live-demo"></a>
 
-   [Live Demo Link](https://aster-alemu.github.io/metrics-web-app/)
+   [Live Demo Link](https://cool-sprite-96befe.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
